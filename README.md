@@ -1,6 +1,6 @@
 # Jarvis
 
-  **Description**
+**Description**
 
     Provides specific automated operations on the linux system
 
@@ -8,33 +8,32 @@
 
     - ./menu.sh
 
-  ## Sample Functionality
+## Sample Functionality
+**Main Menu**
 
-     **Main Menu**
+ ![Main Menu](https://github.com/pagoulid/Jarvis/blob/main/main.png)
 
-     ![Main Menu](https://github.com/pagoulid/Jarvis/blob/main/main.png)
+ **Status**
 
-     **Status**
+ ![Status](https://github.com/pagoulid/Jarvis/blob/main/status.png)
 
-     ![Status](https://github.com/pagoulid/Jarvis/blob/main/status.png)
+ **Users**
 
-     **Users**
-
-     ![Users](https://github.com/pagoulid/Jarvis/blob/main/who.png)
+ ![Users](https://github.com/pagoulid/Jarvis/blob/main/who.png)
     
-     **Updates**
+ **Updates**
 
-     ![Updates](https://github.com/pagoulid/Jarvis/blob/main/updates.png)
+ ![Updates](https://github.com/pagoulid/Jarvis/blob/main/updates.png)
 
-     **Service**
+ **Service**
 
-     ![Service Menu](https://github.com/pagoulid/Jarvis/blob/main/service_menu.png)
+ ![Service Menu](https://github.com/pagoulid/Jarvis/blob/main/service_menu.png)
 
-     ![Service](https://github.com/pagoulid/Jarvis/blob/main/service.png)
+ ![Service](https://github.com/pagoulid/Jarvis/blob/main/service.png)
 
-     **Storage**
+ **Storage**
 
-     ![Storage](https://github.com/pagoulid/Jarvis/blob/main/storage.png)
+ ![Storage](https://github.com/pagoulid/Jarvis/blob/main/storage.png)
 
 
 
